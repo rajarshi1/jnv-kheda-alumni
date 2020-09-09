@@ -10,6 +10,8 @@ This repository contains following:
 - Python script to convert data collected in google form to the format required by the school.
 - Python script to create csv compatible with csv2vcard
 
-## Workflow
+## User Workflow
+![Workflow](/user-workflow.png)
 
+## Backend Workflow
 ![Workflow](/workflow.png)
