@@ -3,7 +3,7 @@
 
 This project is about collecting and maintaining details of alumni of JNV Kheda. Currently working on a mini portal hosted as google web app and github pages. Google form has been taken down. Work is in progress for [issue 5](https://github.com/dharmeshrchauhan/jnv-kheda-alumni/issues/5) and [issue 6](https://github.com/dharmeshrchauhan/jnv-kheda-alumni/issues/6)
 
-Note: As google forms implementation is DEPRECATED, so following description is deprecated as well.
+Note: As google form implementation is DEPRECATED, so following description is deprecated as well.
 -
 
 The collection form is implemented as google form. Edit link goes in email immediately after new entry or any changes as part of google form itself. 
